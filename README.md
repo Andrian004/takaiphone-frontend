@@ -2,9 +2,9 @@
 
 Sebuah aplikasi web e-commerce sederhana yang khusus melayani penjualan handphone. Saya mohon maaf apabila link untuk aplikasi frontend belum tersedia. Akan tetapi anda tetap bisa mencobanya di local computer anda menggunakan API yang telah saya sediakan.
 
-#### API URL:
+#### Alication URL:
 
-API: [https://dark-plum-squirrel-slip.cyclic.app](https://dark-plum-squirrel-slip.cyclic.app)
+Link: [https://takaiphone.netlify.app](https://takaiphone.netlify.app)
 
 #### Source Code:
 
